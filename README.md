@@ -24,3 +24,7 @@ java -jar out/artifacts/OOADProject_main_jar3/OOADProject.main.jar
 - [1st-cycle Development](https://drive.google.com/file/d/1ZrdnbP4EPzR1Bn1T2lAkHey3uQhFoRvu/view?usp=sharing)
 - [2nd-cycle Development](https://drive.google.com/file/d/1AO9tXvsH-EmO634xWUs3LY6_QV8T0WwT/view?usp=sharing)
 - [3rd-cycle Development](https://drive.google.com/file/d/13yNW3PDTW_8HiA23t6oOJK8HXFUPrDoe/view?usp=sharing)
+
+## Troubleshootings
+
+- [231206 Java 프로젝트의 JDK와 Gradle 간의 버전 일치시키기](https://fuschia-impala-bd5.notion.site/231206-JDK-Gradle-25a1472833284b1294cab44764d3f77a?pvs=4)
