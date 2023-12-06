@@ -4,9 +4,15 @@
 
 ```bash
 ./gradlew build
+```
 
+```bash
 java -jar out/artifacts/OOADProject_main_jar3/OOADProject.main.jar 
 ```
+
+## Preliminary Functional Requirements
+
+- [DVM PFR](http://dslab.konkuk.ac.kr/Class/2021/21SMA/Team_project/PFR%20-%20DVM%20(202103).pdf)
 
 ## Documents
 
